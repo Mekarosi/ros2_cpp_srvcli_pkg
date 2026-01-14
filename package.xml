@@ -3,7 +3,7 @@
 <package format="3">
   <name>cpp_srvcli</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>C++ client server</description>
   <maintainer email="mekarosi_assa@yahoo.com">mekarosi</maintainer>
   <license>Apache-2.0</license>
 
